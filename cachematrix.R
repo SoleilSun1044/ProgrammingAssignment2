@@ -1,9 +1,9 @@
 ## Hello, the functions below will create and cache the inverse of a matrix 
-#and then either retreive the cached inverse or calculate it 
+#and then either retreive the cached inverse or calculate it
 #(if it is not available).
 
 
-##Hello again, This first function creates an object that will 
+##This first function creates an object that will 
 #hold the matrix inverese.
 
 makeCacheMatrix <- function(x = matrix()) {
